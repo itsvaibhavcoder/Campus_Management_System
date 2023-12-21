@@ -1,16 +1,12 @@
-# KOLLEGE
+# mycampus
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-[kollege.onrender.com](https://kollege.onrender.com)
+A Campus management system
 
-A College Based Data Management System.
-
-- There are three roles: Teacher, HOD and Student.
+There are three roles: Teacher, Admin and Student.
 
 ## Login Details
 
-PS: BE KIND :)
 
 ### Teacher
 
@@ -124,30 +120,4 @@ In the Kollege API project, go to config/allowedOptions.js. Make sure your front
 const allowedOrigins = ["http://localhost:3000", "https://example.address.com"];
 ```
 
-## RoadMap
 
-- Add admin 😴
-- Cache Queries
-
-## Acknowledgements
-
-- [MERN Stack Tutorial](https://www.youtube.com/watch?v=CvCiNeLnZ00&pp=ygUOZGF2ZSBncmF5IGZ1bGw%3D) by [Dave Gray](https://github.com/gitdagray)
-- [React Tutorial](https://www.youtube.com/watch?v=RVFAyFWO4go&pp=ygUOZGF2ZSBncmF5IGZ1bGw%3D) by [Dave Gray](https://github.com/gitdagray)
-- Official Documentation ([React](https://react.dev/), [TailwindCSS](https://tailwindcss.com/), [MongoDB](https://www.mongodb.com/docs/))
-- [React Icons](https://react-icons.github.io/react-icons/search)
-- [React Router](https://reactrouter.com/en/main)
-- [React Toastify](https://fkhadra.github.io/react-toastify/introduction)
-- [Axios](https://axios-http.com/)
-- [README Editor](readme.so)
-
-## Related
-
-[KOLLEGE API](https://github.com/afthab-i/4.4-Kollege_API)
-
-## Feedback
-
-If you have any feedback, please reach out to me at [here](mailto:afthabiqbal123@gmail.com). Thank You ❤️.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
